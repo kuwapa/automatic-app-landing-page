@@ -31,15 +31,6 @@
 			</a>
 		{% endif %}
 
-		{% if site.email_address %}
-			<a href="mailto:{{ site.email_address }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fas fa-envelope fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
 	</div>
 	<div class="footerLinks">
 		{% for page in site.pages %}
@@ -48,5 +39,9 @@
 		{% if site.presskit_download_link %}
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
+		{% if site.email_address %}
+			<a href="mailto:{{ site.email_address }}">Contact Us</a>
+		{% endif %}
+
 	</div>
 </footer>
