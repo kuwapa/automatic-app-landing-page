@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "abhiank.maplocs",
+               "sha256_cert_fingerprints": ["0F:15:D4:9A:C3:BC:9F:BD:01:AA:2F:C2:91:CF:CC:53:28:F7:A2:D6:5A:F5:E5:77:4D:39:15:68:D5:FE:63:BB"] }
+}]
