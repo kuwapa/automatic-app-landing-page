@@ -1,3 +1,12 @@
+---
+layout: page
+title: Terms and Conditions
+include_in_header: false
+---
+
+**Last updated**  
+January 20 2024
+
 # Terms and Conditions
 
 Welcome to Maplocs ("the App"). By accessing or using the App, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with any part of these Terms, you must not use the App.
